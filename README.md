@@ -37,6 +37,7 @@ To run it locally:
 ```bash
 git clone https://rainydeville.github.io/book-catalog-JS.git
 cd book-catalog-JS
+---
 
 ✨ Author
 Rainy — Front-end developer & Bootstrap wrangler
