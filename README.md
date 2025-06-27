@@ -30,9 +30,6 @@ A responsive and clean web app that fetches books and genres from two separate A
 - [Books API](https://in3.dev/knygos/)
 - [Genres API](https://in3.dev/knygos/types/)
 
-## ✨ Author
-Rainy — Front-end developer & Bootstrap wrangler
-
 ## 🚀 Getting Started
 
 To run it locally:
@@ -40,3 +37,7 @@ To run it locally:
 ```bash
 git clone https://rainydeville.github.io/book-catalog-JS.git
 cd book-catalog-JS
+```
+## ✨ Author
+
+Rainy — Front-end developer & Bootstrap wrangler
